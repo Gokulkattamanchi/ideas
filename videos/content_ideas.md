@@ -1,4 +1,4 @@
-# Content Ideas
+i# Content Ideas
 
 Suggestions for new content to appear as videos:
 
@@ -7,3 +7,6 @@ Suggestions for new content to appear as videos:
 [ ] Getting started with Symbian
 [ ] Coding for the Psion V
 [ ] Flash for developers
+[ ] Getting started with Symbian
+[ ] Advanced MOS 6510 Programming
+
